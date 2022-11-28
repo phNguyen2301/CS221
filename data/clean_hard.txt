@@ -1,5 +1,5 @@
-
  vừa/R lái/V xe/N anh_ta/P vừa/R nói/V lái/N
+ 
  việc/N anh_bảy/N có/V bảy/M quả/N bóng_vàng/N dường_như/X là/V điều/N không_thể/A
  cà_phê/N ở/E đây/P làm/V tôi/P phê/V tận/V nóc/N
  một/M nghề/N cho/E chín/A còn/R hơn/A chín/M nghề/N
@@ -8,3 +8,4 @@
  phận/N làm/V con/N không_thể/R phụ/V công/N phụ_mẫu/N dưỡng_dục/V
  những/D con_sâu/N ẩn_mình/V sâu/A trong/E những/D vòm/N cây/N
  vừa/R ngồi/V vào/E bàn/N chúng_tôi/P liền/R bắt_đầu/V bàn/V công_việc/N
+ 

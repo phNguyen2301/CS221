@@ -1,31 +1,28 @@
-
  thành_phố/N washington/N có/V một/M kiến_trúc/N rất/R đa_dạng/A
  tuy_nhiên/C vì/C gặp/V nhiều/A khó_khăn/N trong/E cuộc_sống/N ông/N dần/R trở_nên/V khó_tính/A
- khí_hậu/N hông_kông/N thuộc/V kiểu/N cận_nhiệt_đới/N và/C chịu/V ảnh_hưởng/V của/E gió_mùa/N
- khoảng/A hơn/A
- bề_mặt/N trái_đất/N được/V bao_phủ/V bởi/E các/D đại_dương/N nước_mặn/N phần/N còn_lại/V là/V các/D lục_địa/N và/C các/D đảo/N
+ khí_hậu/N hồng_kông/N thuộc/V kiểu/N cận_nhiệt_đới/N và/C chịu/V ảnh_hưởng/V của/E gió_mùa/N
+ khoảng/A hơn/A 70/M bề_mặt/N trái_đất/N được/V bao_phủ/V bởi/E các/D đại_dương/N nước_mặn/N phần/N còn_lại/V là/V các/D lục_địa/N và/C các/D đảo/N
  đà_lạt/N là/V thành_phố/N trực_thuộc/V tỉnh/N lâm_đồng/N nằm/V trên/E cao_nguyên/N lâm_viên/N thuộc/V vùng/N tây_nguyên/N việt_nam/N
- đổi/V đất_đai/N lấy/V hạ_tầng/N là/E một/M trong/E những/D việc/N phải/V làm/V trong/E bối_cảnh/N hiện_nay/N
+ đổi/V đất_đai/N lấy/V hạ_tầng/N là/V một/M trong/E những/D việc/N phải/V làm/V trong/E bối_cảnh/N hiện_nay/N
  cuối/N tuần/N trước/N tôi/P về/V quê/N vì/E gia_đình/N có/V đám/N
- những/D cơn_gió/N căng_tràng/A vi_vu/V khắp/A núi_rừng/N đà_lạt/N khiến/V những/D quả_hồng/N uống/V no_nê/A những/A giọt_sương/N mờ/A
+ những/D cơn_gió/N căng_tràng/A vi_vu/V khắp/A núi_rừng/N đà_lạt/N khiến/V những/D quả_hồng/N uống/V no_nê/A những/D giọt_sương/N mờ/A
  nhưng/C đó/P là/V chuyện/N đã/R qua/V
  biến_đổi/N khí_hậu/N đe_doạ/V đến/E con_người/N khi/C nó/P gây/V bất_an/A lương_thực/N khan_hiếm/A nước/N lũ_lụt/N nắng/N nóng/A cực_đoan/A thiệt_hai/V kinh_tế/N và/C di_cư/N
- khí_hậu/N hông_kông/N thuộc/V kiểu/N cận_nhiệt_đới/N và/C chịu/V ảnh_hưởng/N của/E gió_mùa/N
  buồng_lái/N nhô/V cao/A cho_phép/V máy_bay/N có_thể/R chất/V dỡ/V hàng_hoá/N từ/E phía/N trước/N ở/E các/D phiên_bản/N chuyên/A chở/V hàng_hoá/N
  trong/E thế_vận_hội/N mùa/N hè/N đầu_tiên/A này/P không/R có/V nữ/N vận_động_viên/N nào/P tham_dự/V
  một/M tuần/N sau/N ông/N đưa/V cho/E mỗi/D người/N một/M bản/N phân_tích/V và/C yêu_cầu/V họ/P đánh_giá/V mức_độ/N chính_xác/A
  người/N dùng/V có_thể/R xem/V và/C chỉ/V rõ/A thông_tin/N nào/P được/V thu_thập/V để/E thực_thi/V một_số/D chế_định/N về/E quyền/N riêng_tư/A
  con_người/N chỉ/R đơn_giản/A là/V những/D cỗ_máy/N vô_cùng/R phức_tạp/A
  đây/P là/V điều/N không/R cần/V phải/V bàn_cãi/V
- những/D website/N được/V thiết_kế/V đẹp_mắt/A với/C bố_cục/N hài_hòa/A và/C tỉ_lệ/N cân_đối/A sẽ/R chiếm/V được/R thiện_cảm/N của/C người/N dùng/V
- sứ_mệnh/N của/E visual_designer/N là/C mang/V đến/V những/D trải_nghiệm/N thú_vị/A và/C độc_đáo/A cho/E người/N dùng/V
+ những/D website/N được/V thiết_kế/V đẹp_mắt/A với/C bố_cục/N hài_hòa/A và/C tỉ_lệ/N cân_đối/A sẽ/R chiếm/V được/R thiện_cảm/N của/E người/N dùng/V
+ sứ_mệnh/N của/E visual_designer/N là/V mang/V đến/V những/D trải_nghiệm/N thú_vị/A và/C độc_đáo/A cho/E người/N dùng/V
  việc/N tối_ưu/V tốc_độ/N tải/V trang/N luôn/R là/V nhiệm_vụ/N được/V đặt/V lên/V hàng_đầu/N
- số lượng_N share/V chính/I là/V đích_đến/N của/C tất_cả/N thương_hiệu/N
+ số_lượng/N share/V chính/I là/V đích_đến/N của/E tất_cả/N thương_hiệu/N
  sự/N kết_hợp/V tìm_kiếm/V và/C chia_sẻ/V mang/V lại/V hiệu_ứng/N lan_truyền/V rất/R lớn/A
- đám_cưới/N của/E cặp_đôi/N được/R tổ_chức/V ấm_cúng/A tại/E nhà_riêng/N ở/E hà_nội/N vào/E chiều/N nay/P
+ đám_cưới/N của/E cặp_đôi/N được/V tổ_chức/V ấm_cúng/A tại/E nhà_riêng/N ở/E hà_nội/N vào/E chiều/N nay/P
  họ/P đều/R đồng_loạt/V cho/V rằng/C đây/P là/V sự_kiện/N đáng/A chú_ý/V nhất/R của/E bóng_đá/N đông_nam_á/N
  nếu_như/C là/V trước_đây/N chắc/V tôi/P sẽ/R sợ/V không/R muốn/V ai/P nhìn/V thấy/V phần/N cơ_thể/N đó/P
- nếu/C để_ý/V bạn/N sẽ/R thấy/V chuyện/N đôi_lứa/N bên_nhau/N cũng/R chẳng/R khác/A một/M cuộc/N khiêu_vũ/N là/V mấy/X
+ nếu/C để_ý/V bạn/P sẽ/R thấy/V chuyện/N đôi_lứa/N bên_nhau/N cũng/R chẳng/R khác/A một/M cuộc/N khiêu_vũ/N là/V mấy/X
  nhân_viên/N này/P đã/R làm_việc/V từ/E xa/A từ/P hà_lan/N cho/E một/M công_ty/N phần_mềm/N của/E mỹ/N
  ý_nghĩa/N của/E tiết_kiệm/V không/R chỉ/R là/V tiền/N mà/C khi/N gặp/V biến_cố/N cũng/R có_thể/R bình_tĩnh/A
  tại/E sự_kiện/N các/D chuyên_gia/N cho/V rằng/C các/D công_trình/N xanh/A sẽ/R tiết_kiệm/V cho/V chủ/N đầu_tư/V
@@ -43,14 +40,15 @@
  trận/N banh/N tối/N nay/P diễn_ra/V tại/E sân/N thể_dục/N thể_thao/N
  những/D bạn/N cùng/A nhóm/N của/E tôi/P học/V rất/R giỏi/A họ/P là/V thiên_tài/N
  tôi/P đang/R làm/V bài_tập/N gán/V nhãn/N từ_loại/N trong/E từ_điển/N vlsp/N
- tiếng_anh/N của/E tôi/P rất/R kém/A vì_vậy/C tôi/P cần/V cải_thiện/V nhiều/A hơn/D
+ tiếng_anh/N của/E tôi/P rất/R kém/A vì_vậy/C tôi/P cần/V cải_thiện/V nhiều/A hơn/A
  tôi/P đang/R cố_gắng/V để/E tiếp_thu/V kiến_thức/N của/E môn_học/N xử_lí/V ngôn_ngữ/N tự_nhiên/N
  tôi/P thường_xuyên/A thức/V dậy/V vào/E lúc/N 6/M giờ/N
  đó/P là/V một/M thói_quen/N
  tôi/P đang/R cố_gắng/V để/E cải_thiện/V tư_duy/N giải_quyết/V vấn_đề/N của/E mình/P trở_nên/V tốt/A hơn/A
- bạn/N nên/C dành/V nhiều/A thời_gian/N để/E cố_gắng/V phát_triển/V kiến_thức/N theo/E dạng/N hình/N chữ/N t/N
+ bạn/P nên/C dành/V nhiều/A thời_gian/N để/E cố_gắng/V phát_triển/V kiến_thức/N theo/E dạng/N hình/N chữ/N t/N
  công_việc/N của/E tôi/P không/R hẳn/R là/V dễ/A nhưng/C dường_như/I tôi/P đang/R suy_nghĩ/V nhiều/A về/E nó/P
  mỗi/D buổi/N chiều/N tôi/P thường/R dành/V thời_gian/N để/E tập/V gym/V hoặc/C đá/V bóng/N và/C tôi/P đang/R cố_gắng/V để/E duy_trì/V nó/P
- tôi/P thường_xuyên/A nghe/V nhạc/N vào/E lúc/N làm_việc/V đặc_biệt/A là/C những/D bài_nhạc/N có/V tiết_tấu/N nhanh/A vì/E nó/P giúp/V tôi/P tránh/V khỏi/V buồn_ngủ/A
+ tôi/P thường_xuyên/A nghe/V nhạc/N vào/E lúc/N làm_việc/V đặc_biệt/A là/V những/D bài_nhạc/N có/V tiết_tấu/N nhanh/A vì/E nó/P giúp/V tôi/P tránh/V khỏi/V buồn_ngủ/A
  tôi/P thích/V đi/V du_lịch/V bằng/E xe_máy/N bởi/E như_vây/C có_thể/R tận_hưởng/V mọi_thứ/N tốt/A hơn/A
- việc/I gõ/V bàn_phím/N bằng/E 5/M ngón_tay/N sẽ/R giúp/V bạn/N có/V tốc_độ/N gõ/V nhanh/A hơn/A
+  gõ/V bàn_phím/N bằng/E 5/M ngón_tay/N sẽ/R giúp/V bạn/P có/V tốc_độ/N gõ/V nhanh/A hơn/A
+  
