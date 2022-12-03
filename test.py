@@ -218,7 +218,7 @@ def toString(wl):
     return text
 
 
-wr = "Vì rất đặc biệt nên tôi đã chú ý"
+wr = "Vì nó rất đặc biệt nên tôi đã chú ý"
 print(wr)
 wl = ViTokenizer.tokenize(wr)
 wl = wl.split()
