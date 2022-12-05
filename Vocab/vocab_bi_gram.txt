@@ -473,6 +473,7 @@ lây nhiễm
 tối ngài
 chia tay
 ngoại tình
+tối ưu
 nhu cầu
 sinh viên
 lừa đảo
@@ -1402,6 +1403,7 @@ cuốn hút
 kinh phí
 lily chen
 hiệu trưởng
+tiếng anh
 phương oanh
 mạnh trường
 sức mạnh
@@ -2106,6 +2108,34 @@ bảo trì
 tư pháp
 xâm phạm
 cửa ngõ
+diễn_ra
+cho_rằng
+sống_ảo
+phụ_mẫu
+dưỡng_dục
+đích_đến
+nước_mặn
+còn_lại
+buồng_lái
+phía_trước
+át_chế
+benzema
+cơn_gió
+căng_tràng
+núi_rừng
+giọt_sương
+cho_rằng
+con_sâu
+ẩn_mình
+từ_khóa
+bài_nhạc
+tiết_tấu
+cặp_đôi
+gió_mùa
+anh_ta
+trận_đấu
+chế_định
+từ_loại
 nhộn nhịp
 gần gũi
 tối cao
@@ -3538,6 +3568,7 @@ bách hoá
 trêu ghẹo
 dung thứ
 tay trong
+cỗ máy
 kết liễu
 đầu óc
 đẹp mắt
@@ -10899,6 +10930,7 @@ vị nữ
 mĩ miều
 nhẵn nhụi
 loại son
+người dùng
 đặc chế
 hoá học
 ngự trị

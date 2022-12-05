@@ -14,7 +14,7 @@ một tuần sau ông đưa cho mỗi người một bản phân tích và yêu 
 người dùng có thể xem và chỉ rõ thông tin nào được thu thập để thực thi một số chế định về quyền riêng tư
 con người chỉ đơn giản là những cỗ máy vô cùng phức tạp
 đây là điều không cần phải bàn cãi
-những website được thiết kế đẹp mắt với bố cục hài hòa và tỉ lệ cân đối sẽ chiếm được thiện cảm của người dùng
+những website được thiết kế đẹp mắt với bố cục hài hoà và tỉ lệ cân đối sẽ chiếm được thiện cảm của người dùng
 sứ mệnh của visual designer là mang đến những trải nghiệm thú vị và độc đáo cho người dùng
 việc tối ưu tốc độ tải trang luôn là nhiệm vụ được đặt lên hàng đầu
 số lượng share chính là đích đến của tất cả thương hiệu
@@ -36,10 +36,10 @@ tự đặt mình vào vị trí của người dùng để trải nghiệm trê
 trái tim anh đã mở cửa để chào đón em
 quả bóng vàng được trao cho benzema
 chuối có chứa rất nhiều chất dinh dưỡng cần thiết cho cơ thể
-internet ở kí túc xá khu b rất yếu
+internet ở ký túc xá khu b rất yếu
 trận đấu tối nay diễn ra tại sân thể dục thể thao
 những bạn cùng nhóm của tôi học rất giỏi họ là thiên tài
-tôi đang làm bài tập gán nhãn từ loại trong từ điển vlsp
+tôi đang làm bài tập gán nhãn từ loại trong từ điển
 tiếng anh của tôi rất kém vì vậy tôi cần cải thiện nhiều hơn
 tôi đang cố gắng để tiếp thu kiến thức của môn học xử lí ngôn ngữ tự nhiên
 tôi thường xuyên thức dậy vào lúc 6 giờ
@@ -49,5 +49,5 @@ bạn nên dành nhiều thời gian để cố gắng phát triển kiến th�
 công việc của tôi không hẳn là dễ nhưng dường như tôi đang suy nghĩ nhiều về nó
 mỗi buổi chiều tôi thường dành thời gian để tập gym hoặc đá bóng và tôi đang cố gắng để duy trì nó
 tôi thường xuyên nghe nhạc vào lúc làm việc đặc biệt là những bài nhạc có tiết tấu nhanh vì nó giúp tôi tránh khỏi buồn ngủ
-tôi thích đi du lịch bằng xe máy bởi như vây có thể tận hưởng mọi thứ tốt hơn
+tôi thích đi du lịch bằng xe máy bởi như vậy có thể tận hưởng mọi thứ tốt hơn
 gõ bàn phím bằng 5 ngón tay sẽ giúp bạn có tốc độ gõ nhanh hơn
