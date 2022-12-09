@@ -1,5 +1,5 @@
 thành_phố/N washington/N có/V 1/M kiến_trúc/N rất/R đa_dạng/A
-tuy_nhiên/C vì/C gặp/V nhiều/A khó_khăn/N trong/E cuộc_sống/N ông/N dần/R trở_nên/V khó_tính/A
+tuy_nhiên/C vì/E gặp/V nhiều/A khó_khăn/N trong/E cuộc_sống/N ông/N dần/R trở_nên/V khó_tính/A
 khí_hậu/N hồng_kông/N thuộc/V kiểu/N cận_nhiệt_đới/N và/C chịu/V ảnh_hưởng/V của/E gió_mùa/N
 khoảng/A hơn/A 70/M bề_mặt/N trái_đất/N được/V bao_phủ/V bởi/E các/D đại_dương/N nước_mặn/N phần/N còn_lại/V là/V các/D lục_địa/N và/C các/D đảo/N
 đà_lạt/N là/V thành_phố/N trực_thuộc/V tỉnh/N lâm_đồng/N nằm/V trên/E cao_nguyên/N lâm_viên/N thuộc/V vùng/N tây_nguyên/N việt_nam/N
